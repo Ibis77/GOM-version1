@@ -1,0 +1,13 @@
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.logos img {
+  max-width: 100vw;
+  flex-basis: 600px;
+  /* or any other value you want */
+  flex-shrink: 0;
+}
+
+/*# sourceMappingURL=logos.css.map */
